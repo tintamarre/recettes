@@ -5,17 +5,13 @@ footer: Copyleft | 2020-now Famille
 ---
 :heart:
 
-Vous trouverez ici un ensemble des recettes familiales.
+Vous trouverez ici un ensemble de recettes familiales.
 
-- [Home](/)
-- [Recettes](/recettes/)
-
-### Blanquette <Badge text="toussaint" type="warning"/> <Badge text="salé"/>
-
-| Origin        | Type           | Date  |
+| Origin        | Tags           | Recettes  |
 | ------------- |:-------------:| -----:|
-| Erpicum Giner Lloret | right-aligned | [Boulets](/recettes/plats/boulets) |
-| Giner Lloret      | centered      |   $12 |
-| Jaminon | are neat      |    $1 |
-| Erpicum | are neat      |    $1 |
-| Toussaint | are neat      |    $1 |
+| Erpicum Giner Lloret | <Badge text="toussaint" type="warning"/> <Badge text="salé"/>  | [Boulets](/recettes/plats/boulets), [Patons pizza](/recettes/plats/patons_pizza) |
+| Giner Lloret      |       | [Paella mixta](/recettes/plats/paella_juan)    |
+| Jaminon |       |     |
+| Erpicum |       |     |
+| Toussaint |       |   Blanquette  |
+| Rinkin |       |   Speculoos  |
