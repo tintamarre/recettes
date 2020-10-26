@@ -1,14 +1,16 @@
 ---
-title: Patons Pizza
+title: Patons à pizza
 sidebar: auto
-sidebarDepth: 2
+meta:
+  - name: keywords
+    content: salé, four, 2020
 ---
 
-# Patons Pizza
+# :pizza: Patons à pizza
 
-**Crédits [ASBL OpenJustice.be](https://openjustice.be)** :pizza:
+**Crédits [ASBL OpenJustice.be](https://openjustice.be)**
 
-## Ingr.édients pour 6 pizzas
+## Ingrédients pour 6 pizzas
 - 570 gr./ml. d'eau à température ambiante (20-30 degrés C) ;
 - 1000 gr. de farine typo 00 / 45 ;
 - 30 gr. de sel (*idéalement sans additif*);
