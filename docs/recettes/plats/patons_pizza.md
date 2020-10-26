@@ -33,7 +33,7 @@ meta:
 - Poser les patons dans une ou des boites hermétiques et laisser lever pendant 6h ;
 
 ### Phase 3
-- Étaler la pate soit à la main (technique de la fessée <https://www.youtube.com/watch?v=YbkHihvXCPg>) ;
+- Étaler la pate soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) ;
 - Soit au rouleau ;
 
 ### Phase 4
