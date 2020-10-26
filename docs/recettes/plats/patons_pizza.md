@@ -19,26 +19,30 @@ meta:
 ## Préparation
 ### Phase 1
 - Mélanger 100 gr. de farine, la levure, le sel, l'eau et laisser reposer 5 à 10 minutes pour activer la levure ;
+  - Les glucides de la farine vont activer la levure ;
 - Ajouter les 900 gr. de farine et malaxer pendant min 20 minutes.
   - Personnelement, je commence avec ma machine à pain et puis à la main ;
-  - Le gluten doit s'activer et la pate ne doit plus coller aux mains ;
-- Poser la pate dans saladier et laisser lever la pate pendant 2h couverte d'un linge dans un endroit pas trop ventillé ;
+  - Le gluten doit s'activer (élasticité) et la pate ne doit plus coller aux mains ;
+- Poser la pate dans saladier et la laisser lever pendant 2 heures couverte d'un linge dans un endroit pas trop ventillé ;
 
-::: tip Conseils
-À ce stade, la pate peut reposer dans le frigo une nuit ou plus.
+::: tip Option
+Après les 2 heures, la pate peut reposer dans le frigo une nuit ou plus.
 :::
 
 ### Phase 2
-- Division la pate en patons (x6) ;
-- Poser les patons dans une ou des boites hermétiques et laisser lever pendant 6h ;
+- Diviser la pate en patons (x6) ;
+- Poser les patons dans une ou des boites hermétiques et les laisser lever pendant 6h ;
 
 ### Phase 3
-- Étaler la pate soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) ;
-- Soit au rouleau ;
+- Étaler la pate:
+  - soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) :hand: ;
+  - soit au rouleau ;
 
 ### Phase 4
+- Garnissage et enfournage ;
+
 ::: tip Conseils
-Afin que la pizza ne colle pas à la pelle, le temps de garnissage ne doit pas dépasser une minute ;
+Afin que la pizza ne colle pas à la pelle, le temps de garnissage ne doit pas dépasser une minute et la pelle doit etre bien farinée
 :::
 
-- Garnissage et enfournage
+## Bon appétit ! :yum:
