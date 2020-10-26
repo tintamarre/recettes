@@ -8,7 +8,7 @@ node_modules
 *.log
 
 # Meta files
-TODO.md
+# TODO.md
 
 # Editors
 .vscode
