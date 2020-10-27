@@ -10,8 +10,8 @@
       </li>
     </ul>
 
-    <a @click="changeQty('add')">➕ Ajouter {{ this.recette.portion_type }}</a><br />
-    <a @click="changeQty('remove')">➖ Retirer {{ this.recette.portion_type }}</a><br />
+    <a @click="changeQty('add')">➕ Ajouter {{ this.recette.portion_step }} {{ this.recette.portion_type }}</a><br />
+    <a @click="changeQty('remove')" v-if="qty > 0">➖ Retirer {{ this.recette.portion_step }} {{ this.recette.portion_type }} </a><br />
 
     <em><a @click="reset">Revenir à {{ this.recette.portion_qty }} {{ this.recette.portion_type }}</a></em><br />
 
@@ -28,16 +28,15 @@ export default {
     return {
       portion_qty: this.recette.portion_qty,
       qty: this.recette.portion_qty,
+      step: this.recette.portion_step,
     }
   },
   methods: {
     changeQty(methd) {
       if (methd == 'add') {
-        this.qty++;
+        this.qty = this.qty + this.step;
       } else {
-        if (this.qty >= 1) {
-          this.qty--;
-        }
+          this.qty = this.qty - this.step;
       }
     },
     reset() {

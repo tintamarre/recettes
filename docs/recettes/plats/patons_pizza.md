@@ -9,6 +9,7 @@ JSON:
   {
   "name": "Patons à pizza",
   "portion_qty": 6,
+  "portion_step": 1,
   "portion_type": 'patons à pizza',
   "ingredients": [
   {
