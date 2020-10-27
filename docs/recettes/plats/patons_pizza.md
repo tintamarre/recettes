@@ -4,9 +4,39 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, four, 2020
+# JSON: { "Farine": 1000, "Eau": 570, "Sel": 30, "Levure": 1 }
+JSON:
+  {
+  "name": "Patons à pizza",
+  "portion": 6,
+  "ingredients": [
+  {
+  "name": "Farine",
+  "qty": 1000,
+  "unity": "gr",
+  },
+  {
+  "name": "Eau",
+  "qty": 570,
+  "unity": "ml",
+  },
+  {
+  "name": "Sel",
+  "qty": 30,
+  "unity": "gr",
+  },
+  {
+  "name": "Levure",
+  "qty": 1,
+  "unity": "gr",
+  }]
+  }
 ---
+<recipePortion :recette="$page.frontmatter.JSON" />
 
 # :pizza: Patons à pizza
+
+
 
 **Crédits [ASBL OpenJustice.be](https://openjustice.be)**
 

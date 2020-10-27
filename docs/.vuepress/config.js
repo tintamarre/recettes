@@ -1,8 +1,9 @@
 // .vuepress/config.js
 
 module.exports = {
-  title: 'Recettes',
-  description: 'Recettes familiales',
+  plugins: ['@vuepress/last-updated'],
+  title: 'Recettes familiales',
+  description: 'Recettes de cuisine familiales traversant les générations la famille',
   themeConfig: {
     repo: 'tintamarre/recettes',
     repoLabel: 'Contribute!',
@@ -11,23 +12,7 @@ module.exports = {
     editLinks: true,
     smoothScroll: true,
     displayAllHeaders: true, // Default: false
-    nextLinks: false,
-    prevLinks: false,
-    // sidebar: [
-    //   {
-    //     title: 'Plats',   // required
-    //     path: '/recettes/plats/',      // optional, link of the title, which should be an absolute path and must exist
-    //     collapsable: false, // optional, defaults to true
-    //     sidebarDepth: 1,    // optional, defaults to 1
-    //     children: [
-    //       '/recettes/plats/boulets'
-    //     ]
-    //   },
-    //   {
-    //     title: 'Desserts',
-    //     children: [ /* ... */ ],
-    //     initialOpenGroupIndex: -1 // optional, defaults to 0, defines the index of initially opened subgroup
-    //   }
-    // ]
+    nextLinks: true,
+    prevLinks: true,
   },
 };

@@ -1,3 +1,11 @@
+---
+title: Paella mixta de Juan
+sidebar: auto
+meta:
+  - name: keywords
+    content: salé, 2015
+---
+
 # Paella Mixta de Juan
 
 Ma recette de la Paella Mixta.
@@ -6,11 +14,14 @@ Ma recette de la Paella Mixta.
 
 ## Ingrédients
 
+- Tomates
+- Poulets
+- Riz rond (si riz à paella non disponible prendre du riz à risotto)
 
 ## Préparation
 
 - Couper les viandes en morceaux de taille moyenne.
-- Enlever les premières feuilles des artichauts, rabattre à ~5/6 cm de hauteur, couper les cœurs en 8 et nettoyer les quartiers en enlevant le foin.
+- Enlever les premières feuilles des artichauts, rabattre à ~ 5/6 cm de hauteur, couper les cœurs en 8 et nettoyer les quartiers en enlevant le foin.
 - Couper les poivrons en lanières de 1 à 2 cm.
 - Couper les tomates en morceaux moyens.
 - Mise en œuvre.
@@ -21,7 +32,7 @@ Ma recette de la Paella Mixta.
 - Précuire les calmars dans un peu d'huile d'olive dans une casserole avec couvercle (attention ça spritche!!!). Poivrer, saler pendant la cuisson.
 - Précuire au micro-ondes 5 min les artichauts et les poivrons, 3 min les haricots.
 
-Pour le bouillon, le mieux est de préparer du bouillon de poissons/crustacés. Le volume de bouillon nécessaire est 2,5 X volume de riz utilisé. Quand on n'a pas le temps ou les ingrédients, le plus pratique est d'acheter du bouillon tout fait pour paella « de mariscos ».
+Pour le bouillon, le mieux est de préparer du bouillon de poissons/crustacés. Le volume de bouillon nécessaire est 2,5 * volume de riz utilisé. Quand on n'a pas le temps ou les ingrédients, le plus pratique est d'acheter du bouillon tout fait pour paella « de mariscos ».
 Etape finale.
 
 Rem: les précuissons peuvent se faire dans la paellera ou dans d'autres ustensiles, tranquillement dans la cuisine.
