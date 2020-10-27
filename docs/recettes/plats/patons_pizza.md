@@ -8,49 +8,47 @@ meta:
 JSON:
   {
   "name": "Patons à pizza",
-  "portion": 6,
+  "portion_qty": 6,
+  "portion_type": 'patons à pizza',
   "ingredients": [
   {
-  "name": "Farine",
+  "name": "farine",
+  "description": 'typo 00 / 45 ',
   "qty": 1000,
-  "unity": "gr",
+  "unity": "gr.",
   },
   {
-  "name": "Eau",
+  "name": "eau",
+  "description": 'à température ambiante (20-30 degrés C)',
   "qty": 570,
-  "unity": "ml",
+  "unity": "ml.",
   },
   {
-  "name": "Sel",
+  "name": "sel",
+  "description": '(idéalement sans additif)',
   "qty": 30,
-  "unity": "gr",
+  "unity": "gr.",
   },
   {
-  "name": "Levure",
+  "name": "levure",
+  "description": 'de levure sèche de boulanger ou x4 en levure fraiche',
   "qty": 1,
-  "unity": "gr",
+  "unity": "gr.",
   }]
   }
 ---
-<recipePortion :recette="$page.frontmatter.JSON" />
 
 # :pizza: Patons à pizza
 
-
-
 **Crédits [ASBL OpenJustice.be](https://openjustice.be)**
 
-## Ingrédients pour 6 pizzas
-- 570 gr./ml. d'eau à température ambiante (20-30 degrés C) ;
-- 1000 gr. de farine typo 00 / 45 ;
-- 30 gr. de sel (*idéalement sans additif*);
-- 1 gr. de levure sèche de boulanger ou 4gr. en levure fraiche ;
+<recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation
 ### Phase 1
-- Mélanger 100 gr. de farine, la levure, le sel, l'eau et laisser reposer 5 à 10 minutes pour activer la levure ;
+- Mélanger 10% de la farine, la levure, le sel, l'eau et laisser reposer 5 à 10 minutes pour activer la levure ;
   - Les glucides de la farine vont activer la levure ;
-- Ajouter les 900 gr. de farine et malaxer pendant min 20 minutes.
+- Ajouter les 90% restant de farine et malaxer pendant min 20 minutes.
   - Personnelement, je commence avec ma machine à pain et puis à la main ;
   - Le gluten doit s'activer (élasticité) et la pate ne doit plus coller aux mains ;
 - Poser la pate dans saladier et la laisser lever pendant 2 heures couverte d'un linge dans un endroit pas trop ventillé ;
@@ -60,7 +58,7 @@ Après les 2 heures, la pate peut reposer dans le frigo une nuit ou plus.
 :::
 
 ### Phase 2
-- Diviser la pate en patons (x6) ;
+- Diviser la pate en patons ;
 - Poser les patons dans une ou des boites hermétiques et les laisser lever pendant 6h ;
 
 ### Phase 3

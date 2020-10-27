@@ -1,30 +1,20 @@
 <!-- recipePortion.vue -->
 <template>
   <div>
-    <table>
-      <thead>
-        <tr>
-          <th>Ingrédients</th>
-          <th>Qté</th>
-        </tr>
-      </thead>
-
-      <tr v-for="(ingredient, index) in recette.ingredients" :key="index">
-        <td>{{ ingredient.name }}</td>
-        <td class="qty">{{ Math.round(ingredient.qty * (qty / portion) * 100) / 100 }} {{ ingredient.unity }}</td>
-      </tr>
-
-    </table>
-
+    <h2>Ingrédients pour {{ qty }} {{ this.recette.portion_type }} </h2>
     <ul>
-      <li>Qté de la recette: {{ portion }}</li>
-      <li>Qté demandée: {{ qty }}</li>
 
+      <li v-for="(ingredient, index) in recette.ingredients" :key="index">
+        <strong>{{ Math.round(ingredient.qty * (qty / portion_qty) * 100) / 100 }} <small>{{ ingredient.unity }}</small></strong>
+        {{ ingredient.name }}  {{ ingredient.description }} ;
+      </li>
     </ul>
 
-    <a @click="changeQty('add')">++</a>
-    <a @click="changeQty('remove')">--</a>
-    <a @click="reset">Reset</a>
+    <a @click="changeQty('add')">➕ Ajouter {{ this.recette.portion_type }}</a><br />
+    <a @click="changeQty('remove')">➖ Retirer {{ this.recette.portion_type }}</a><br />
+
+    <em><a @click="reset">Revenir à {{ this.recette.portion_qty }} {{ this.recette.portion_type }}</a></em><br />
+
 
   </div>
 </template>
@@ -36,8 +26,8 @@ export default {
   },
   data: function () {
     return {
-      portion: this.recette.portion,
-      qty: this.recette.portion,
+      portion_qty: this.recette.portion_qty,
+      qty: this.recette.portion_qty,
     }
   },
   methods: {
@@ -45,23 +35,17 @@ export default {
       if (methd == 'add') {
         this.qty++;
       } else {
-        this.qty--;
+        if (this.qty >= 1) {
+          this.qty--;
+        }
       }
     },
     reset() {
-      this.qty = this.recette.portion;
+      this.qty = this.recette.portion_qty;
     }
   }
 }
 </script>
 
 <style>
-.qty {
-  text-align: right;
-  },
-  table {
-    float:left;
-    background:yellow;
-    margin-left:10px;
-  }
   </style>
