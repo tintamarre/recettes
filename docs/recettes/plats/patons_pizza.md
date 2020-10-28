@@ -4,13 +4,12 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, four, 2020
-# JSON: { "Farine": 1000, "Eau": 570, "Sel": 30, "Levure": 1 }
 JSON:
   {
   "name": "Patons à pizza",
   "portion_qty": 6,
   "portion_step": 1,
-  "portion_type": 'patons à pizza',
+  "portion_type": 'paton(s)',
   "ingredients": [
   {
   "name": "farine",

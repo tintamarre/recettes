@@ -81,7 +81,7 @@ JSON:
 
   }
 ---
-# :cookie: Cookies de Marguerite (fête des mamans Mai 2017)
+# :cookie: Cookies de Marguerite (fête des mamans Mai 2017 🤱)
 
 **Crédits [Boulangerie Groffy](https://www.groffy.be/)**
 

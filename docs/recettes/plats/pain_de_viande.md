@@ -1,4 +1,15 @@
-# Pain de viande
+---
+title: Pain de viande de Martine
+sidebar: auto
+meta:
+  - name: keywords
+    content: salé, 2015
+---
+
+# {{ $page.title }}
+
+<recipePortion :recette="$page.frontmatter.JSON" />
+
 
 - 2 kg porc et boeuf
 - 2 oeufs
@@ -9,7 +20,7 @@
 - Épices fraiches: Romarin et Thym
 
 ## Cuisson
-- 40 min au four avec papier sufurité humidifié posé dessus
+- 40 min au four avec papier susfurisé humidifié posé dessus
 - ensuite 30 minutes avec des tranches de lards parsemée au dessus
 avec ajout de bouillon, tomate, confiture ou sirop de liège
 

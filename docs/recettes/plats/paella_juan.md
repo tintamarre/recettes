@@ -9,7 +9,7 @@ JSON:
   "name": "Paella mixta de Juan",
   "portion_qty": 10,
   "portion_step": 1,
-  "portion_type": 'rations',
+  "portion_type": 'ration(s)',
   "ingredients": [
   {
   "name": "riz rond",

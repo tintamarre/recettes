@@ -9,7 +9,7 @@ JSON:
   "name": "Cougnous",
   "portion_qty": 6,
   "portion_step": 1,
-  "portion_type": 'cougnous',
+  "portion_type": 'cougnou',
   "ingredients": [
   {
   "name": "farine",
@@ -41,7 +41,6 @@ JSON:
   "qty": 120,
   "unity": "gr",
   },
-
 
   {
   "name": "sucre fin",

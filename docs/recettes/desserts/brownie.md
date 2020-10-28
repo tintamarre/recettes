@@ -10,7 +10,7 @@ sidebarDepth: 2
 ---
 # {{ $page.title }}
 
-[[toc]]
+<recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Ingrédients pour 4 personnes
 - 250gr de chocolat noir

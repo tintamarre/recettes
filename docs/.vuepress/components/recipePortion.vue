@@ -11,10 +11,9 @@
     </ul>
 
     <a @click="changeQty('add')">➕ {{ this.recette.portion_step }} {{ this.recette.portion_type }}</a><br />
-    <a @click="changeQty('remove')" v-if="qty > 0">➖ {{ this.recette.portion_step }} {{ this.recette.portion_type }} </a><br />
+    <a @click="changeQty('remove')" v-if="qty > step">➖ {{ this.recette.portion_step }} {{ this.recette.portion_type }} </a><br />
 
     <em><a @click="reset">🔙 {{ this.recette.portion_qty }} {{ this.recette.portion_type }}</a></em><br />
-
 
   </div>
 </template>

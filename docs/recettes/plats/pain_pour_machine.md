@@ -1,4 +1,16 @@
-# Recette de pain à la machine
+---
+title: Recette de pain à la machine
+sidebar: auto
+meta:
+  - name: keywords
+    content: salé, 2015
+---
+
+
+# {{ $page.title }}
+
+<recipePortion :recette="$page.frontmatter.JSON" />
+
 
 - Une pincée de levure sèche
     - La levure se garde au frigo dans un récipient en plastique

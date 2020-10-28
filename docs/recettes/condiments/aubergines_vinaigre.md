@@ -1,8 +1,14 @@
 ---
-
-
+title: Aubergine vinaigre
+sidebar: auto
+meta:
+  - name: description
+    content: hello
+  - name: keywords
+    content: super duper SEO
+sidebarDepth: 2
 ---
-# Ingrédients
+# {{ $page.title }}
 
 - 1kg d'aubergines (3 grosses)
 - une poignée de gros sel
