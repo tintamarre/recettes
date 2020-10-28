@@ -81,7 +81,7 @@ JSON:
 
   }
 ---
-# :cookie: {{ $page.title }}
+# 🎄 {{ $page.title }}
 
 :book: Vieux grimoire de Mamy Coune (Rinkin)
 

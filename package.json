@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Recettes de cuisine",
   "main": "index.js",
-  "repository": "recettes.tintamarre.be",
+  "repository": "https://github.com/tintamarre/recettes/",
   "author": "Martin Erpicum",
   "license": "MIT",
   "scripts": {

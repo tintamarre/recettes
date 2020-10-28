@@ -10,10 +10,10 @@
       </li>
     </ul>
 
-    <a @click="changeQty('add')">➕ Ajouter {{ this.recette.portion_step }} {{ this.recette.portion_type }}</a><br />
-    <a @click="changeQty('remove')" v-if="qty > 0">➖ Retirer {{ this.recette.portion_step }} {{ this.recette.portion_type }} </a><br />
+    <a @click="changeQty('add')">➕ {{ this.recette.portion_step }} {{ this.recette.portion_type }}</a><br />
+    <a @click="changeQty('remove')" v-if="qty > 0">➖ {{ this.recette.portion_step }} {{ this.recette.portion_type }} </a><br />
 
-    <em><a @click="reset">Revenir à {{ this.recette.portion_qty }} {{ this.recette.portion_type }}</a></em><br />
+    <em><a @click="reset">🔙 {{ this.recette.portion_qty }} {{ this.recette.portion_type }}</a></em><br />
 
 
   </div>

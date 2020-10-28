@@ -4,19 +4,42 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 2015
+JSON:
+  {
+  "name": "Paella mixta de Juan",
+  "portion_qty": 10,
+  "portion_step": 1,
+  "portion_type": 'rations',
+  "ingredients": [
+  {
+  "description": '(si riz à paella non disponible prendre du riz à risotto)',
+  "qty": 1,
+  "unity": "kg",
+  },
+  {
+  "name": "bouillon",
+  "description": 'de poisson + fruits de mer',
+  "qty": 2.5,
+  "unity": "l",
+  },
+  {
+  "name": "poulets",
+  "description": '',
+  "qty": 2,
+  "unity": "cuisses",
+  },
+  {
+  "name": "tomates",
+  "description": '',
+  "qty": 2,
+  "unity": "",
+  },
+  ]
+  }
 ---
+# 🥘 {{ $page.title }}
 
-# Paella Mixta de Juan
-
-Ma recette de la Paella Mixta.
-
-[[toc]]
-
-## Ingrédients
-
-- Tomates
-- Poulets
-- Riz rond (si riz à paella non disponible prendre du riz à risotto)
+<recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation
 
@@ -26,11 +49,28 @@ Ma recette de la Paella Mixta.
 - Couper les tomates en morceaux moyens.
 - Mise en œuvre.
 
-## Premières étapes
+## Phase 1
 
 - Précuire (faire revenir) les viandes séparément dans de l'huile d'olive dans laquelle on ajoute 2 à 3 dents d'ail légèrement écrasées. Poivrer, saler pendant la cuisson. Mettre de côté.
 - Précuire les calmars dans un peu d'huile d'olive dans une casserole avec couvercle (attention ça spritche!!!). Poivrer, saler pendant la cuisson.
 - Précuire au micro-ondes 5 min les artichauts et les poivrons, 3 min les haricots.
+## Phase 2
+
+Pour le bouillon, le mieux est de préparer du bouillon de poissons/crustacés. Le volume de bouillon nécessaire est 2,5 * volume de riz utilisé. Quand on n'a pas le temps ou les ingrédients, le plus pratique est d'acheter du bouillon tout fait pour paella « de mariscos ».
+Etape finale.
+
+Rem: les précuissons peuvent se faire dans la paellera ou dans d'autres ustensiles, tranquillement dans la cuisine.
+Commencer par faire revenir les artichauts et les poivrons et les haricots dans un peu d'huile d'olive dans la paellera. Poivrer, saler pendant la cuisson.
+
+Déplacer les morceaux revenus vers l'extérieur de la paellera pour faire de la place au centre.
+
+Faire revenir les tomates. Poivrer, saler pendant la cuisson.
+Verser le riz sur les tomates revenues au centre de la paellera et touiller en continu jusqu'à ce que le riz commencent à devenir translucide.
+
+Rajouter les viandes et les calmars, répartir les morceaux et le riz. Laisser réchauffer un peu. Ajouter le bouillon, puis les clovis et les moules.
+
+## Phase 3
+
 
 Pour le bouillon, le mieux est de préparer du bouillon de poissons/crustacés. Le volume de bouillon nécessaire est 2,5 * volume de riz utilisé. Quand on n'a pas le temps ou les ingrédients, le plus pratique est d'acheter du bouillon tout fait pour paella « de mariscos ».
 Etape finale.
