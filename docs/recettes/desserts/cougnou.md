@@ -15,45 +15,45 @@ JSON:
   "name": "farine",
   "description": 'à patisserie',
   "qty": 600,
-  "unity": "gr.",
+  "unity": "gr. de",
   },
   {
   "name": "bicarbonate",
   "description": '',
   "qty": 1,
-  "unity": "c à café",
+  "unity": "c. à café de",
   },
   {
   "name": "levure chimique",
   "description": '',
   "qty": 3,
-  "unity": "gr",
+  "unity": "gr. de",
   },
   {
   "name": "sel",
   "description": '',
   "qty": 12,
-  "unity": "gr",
+  "unity": "gr. de",
   },
   {
   "name": "beurre",
   "description": '',
   "qty": 120,
-  "unity": "gr",
+  "unity": "gr. de",
   },
 
   {
   "name": "sucre fin",
   "description": '',
   "qty": 20,
-  "unity": "gr",
+  "unity": "gr. de",
   },
 
   {
   "name": "raisins, sucre perlé ou pépites de chocolat",
   "description": '',
   "qty": 200,
-  "unity": "gr",
+  "unity": "gr. de",
   },
   {
   "name": "oeufs",
@@ -77,10 +77,10 @@ JSON:
 
 ## Préparation
 
-- Malaxer 20 min l'ensemble des ingrédients (sauce les raisins) ;
+- Malaxer 20 min l'ensemble des ingrédients (sauf les raisins) ;
 - Laisser lever 1h dans un cul de poule ;
 - Remalaxer 5 minutes, en incorporant les raisins ;
-- Refaire lever pate ;
+- Refaire lever la pate ;
 - Former les cougnous ;
 - Cuire +/- 20 minutes au four à 180-200 degrés C ;
-- Badigonner les cougnous avec du jaune oeuf mélangé avec de l'eau les 5 dernieres minutes ;
+- Badigeonner les cougnous avec du jaune d'oeuf mélangé avec de l'eau les 5 dernières minutes ;
