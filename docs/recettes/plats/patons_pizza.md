@@ -42,6 +42,8 @@ JSON:
 
 **Crédits [ASBL OpenJustice.be](https://openjustice.be)**
 
+## Ingrédients
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation

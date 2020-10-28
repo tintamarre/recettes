@@ -10,6 +10,8 @@ sidebarDepth: 2
 ---
 # {{ $page.title }}
 
+## Ingrédients
+
 - 1kg d'aubergines (3 grosses)
 - une poignée de gros sel
 - origan frais ou en poudre

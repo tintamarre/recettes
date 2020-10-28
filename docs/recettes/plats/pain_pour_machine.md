@@ -9,7 +9,9 @@ meta:
 
 # {{ $page.title }}
 
-<recipePortion :recette="$page.frontmatter.JSON" />
+## Ingrédients
+
+<!-- <recipePortion :recette="$page.frontmatter.JSON" /> -->
 
 
 - Une pincée de levure sèche

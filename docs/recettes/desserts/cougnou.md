@@ -9,7 +9,7 @@ JSON:
   "name": "Cougnous",
   "portion_qty": 6,
   "portion_step": 1,
-  "portion_type": 'cougnou',
+  "portion_type": 'cougnou(s)',
   "ingredients": [
   {
   "name": "farine",
@@ -50,7 +50,7 @@ JSON:
   },
 
   {
-  "name": "raisins, sucre perlé ou pépittes de chocolat",
+  "name": "raisins, sucre perlé ou pépites de chocolat",
   "description": '',
   "qty": 200,
   "unity": "gr",
@@ -67,15 +67,20 @@ JSON:
 ---
 # :woman_cook: {{ $page.title }}
 
+## Ingrédients
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ::: tip Grand mère
-*2020-02-16 Francine : C'est quoi ça des cougnous???? Ça c'est un terme du Hainaut, à Liège on dit* **mitchi ca cai** !!!!
+*2020-02-16 Francine : C'est quoi ça des cougnous???? Ça c'est un terme du Hainaut, à Retinne on disait* **mitchi ca cai** !!!!
 :::
 
 ## Préparation
 
-- Dorure 1 jaune oeuf avec de eau ;
-- Mode 2h20 dans la machine à pain ;
-- Puis +/- 20 minutes au four 180-200 degrés C ;
-- Mettre le jaune d'oeuf les 5 dernieres minutes ;
+- Malaxer 20 min l'ensemble des ingrédients (sauce les raisins) ;
+- Laisser lever 1h dans un cul de poule ;
+- Remalaxer 5 minutes, en incorporant les raisins ;
+- Refaire lever pate ;
+- Former les cougnous ;
+- Cuire +/- 20 minutes au four à 180-200 degrés C ;
+- Badigonner les cougnous avec du jaune oeuf mélangé avec de l'eau les 5 dernieres minutes ;

@@ -8,7 +8,9 @@ meta:
 
 # {{ $page.title }}
 
-<recipePortion :recette="$page.frontmatter.JSON" />
+## Ingrédients
+
+<!-- <recipePortion :recette="$page.frontmatter.JSON" /> -->
 
 
 - 2 kg porc et boeuf

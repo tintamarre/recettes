@@ -85,6 +85,8 @@ JSON:
 
 :book: Vieux grimoire de Mamy Coune (Rinkin)
 
+## Ingrédients
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Mise en oeuvre

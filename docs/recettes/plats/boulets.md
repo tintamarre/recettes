@@ -21,13 +21,13 @@ JSON:
   "name": "oignons blancs",
   "description": 'pour les boulets et pour la sauce',
   "qty": 9,
-  "unity": "unités",
+  "unity": "",
   },
   {
   "name": "oeufs",
   "description": '',
   "qty": 2,
-  "unity": "unités",
+  "unity": "",
   },
   {
   "name": "persil",
@@ -35,11 +35,37 @@ JSON:
   "qty": 20,
   "unity": "gr",
   },
+  {
+  "name": "Poivre",
+  "description": '',
+  "qty": 5,
+  "unity": "gr",
+  },
+  {
+  "name": "Sel",
+  "description": '',
+  "qty": 10,
+  "unity": "gr",
+  },
+  {
+  "name": "Vinaigre",
+  "description": 'blanc',
+  "qty": 50,
+  "unity": "ml",
+  },
+  {
+  "name": "Sirop de Liège",
+  "description": 'de bonne qualité',
+  "qty": 200,
+  "unity": "gr",
+  },
   ]
   }
 ---
 
 # {{ $page.title }}
+
+## Ingrédients
 
 <recipePortion :recette="$page.frontmatter.JSON" />
 

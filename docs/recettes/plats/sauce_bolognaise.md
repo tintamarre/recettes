@@ -1,5 +1,5 @@
 ---
-title: Recette de Martin & Célestin de sauce bolognaise
+title: Recette de sauce bolognaise
 sidebar: auto
 meta:
   - name: keywords
@@ -8,8 +8,10 @@ meta:
 
 # {{ $page.title }}
 
+## Ingrédients
 
-<recipePortion :recette="$page.frontmatter.JSON" />
+
+<!-- <recipePortion :recette="$page.frontmatter.JSON" /> -->
 
 
 ## Ingrédients pour 4 portions de 4 personnes

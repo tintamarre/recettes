@@ -1,34 +1,80 @@
 ---
-title: Brownie de Francine
+title: Brownie de Grand mère 👵
 sidebar: auto
 meta:
   - name: description
     content: hello
   - name: keywords
-    content: super duper SEO
+    content: sucré, haters-gonna-hate, 👵
 sidebarDepth: 2
+JSON:
+    {
+    "name": "Brownie de Francine",
+    "portion_qty": 4,
+    "portion_step": 1,
+    "portion_type": 'personne(s)',
+    "ingredients": [
+    {
+    "name": "chocolat noir 🍫",
+    "description": 'de bonne qualité',
+    "qty": 250,
+    "unity": "gr",
+    },
+    {
+    "name": "sucre en poudre",
+    "description": '',
+    "qty": 150,
+    "unity": "gr",
+    },
+    {
+    "name": "beurre",
+    "description": '🧈',
+    "qty": 150,
+    "unity": "gr",
+    },
+    {
+    "name": "surcre vanillé",
+    "description": '',
+    "qty": 1,
+    "unity": "sachet(s)",
+    },
+    {
+    "name": "sel",
+    "description": '(ou mettre du beurre salé)',
+    "qty": 1,
+    "unity": "pincée(s)",
+    },
+    {
+    "name": "œufs",
+    "description": '',
+    "qty": 3,
+    "unity": "",
+    },
+    {
+    "name": "farine",
+    "description": 'tamisée',
+    "qty": 60,
+    "unity": "gr",
+    },
+
+    ]
+    }
 ---
 # {{ $page.title }}
 
-<recipePortion :recette="$page.frontmatter.JSON" />
+## Ingrédients
 
-## Ingrédients pour 4 personnes
-- 250gr de chocolat noir
-- 150gr de sucre en poudre
-- 150gr de beurre
-- 1 sachet de sucre vanillé
-- 60gr de farine tamisée
-- 3 œufs
-- 1 pincée de sel (ou mettre du beurre salé)
+<recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation
 1. Préchauffer le four à 180 degrés
 2. Faire un bain marie avec le beurre le chocolat noir ;
 3. Beurre le moule ;
 4. Ajouter le sucre, le sucre vanillé, la farine et les oeufs en omelettes au mix beurre + chocolat ;
-5. Verser la préparation dans le moule et enfourner 15min, puis laisser 5 minutes dans le four éteint ;
-6. Laisser refroidir 30min, puis mettre au frigo pendant au moins 2h.
-7. Démouller le gateau et puis découpez en parts individuelles ;
+5. Verser la préparation dans le moule et enfourner 15 min, puis laisser 5 minutes dans le four éteint ;
+6. Laisser refroidir 30 min, puis mettre au frigo pendant au moins 2h ;
+7. Démouler le gateau et puis découpez en parts individuelles ;
 
 ## Optionnel
 - Ajouter des noix (pécan, amande, etc.) dans la préparation.
+- Déguster avec une boule de glace vanille

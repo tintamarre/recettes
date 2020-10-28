@@ -40,6 +40,8 @@ JSON:
 ---
 # 🥘 {{ $page.title }}
 
+## Ingrédients
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation

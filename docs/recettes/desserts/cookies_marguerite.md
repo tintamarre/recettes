@@ -85,6 +85,8 @@ JSON:
 
 **Crédits [Boulangerie Groffy](https://www.groffy.be/)**
 
+## Ingrédients
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Mise en oeuvre

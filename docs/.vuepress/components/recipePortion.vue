@@ -1,9 +1,9 @@
 <!-- recipePortion.vue -->
 <template>
-  <div>
-    <h2>Ingrédients pour {{ qty }} {{ this.recette.portion_type }} </h2>
-    <ul>
+  <div v-if="qty">
+    <p><em>Ingrédients pour {{ qty }} {{ this.recette.portion_type }}</em></p>
 
+    <ul>
       <li v-for="(ingredient, index) in recette.ingredients" :key="index">
         <strong>{{ Math.round(ingredient.qty * (qty / portion_qty) * 100) / 100 }} <small>{{ ingredient.unity }}</small></strong>
         {{ ingredient.name }}  {{ ingredient.description }} ;
@@ -35,7 +35,7 @@ export default {
       if (methd == 'add') {
         this.qty = this.qty + this.step;
       } else {
-          this.qty = this.qty - this.step;
+        this.qty = this.qty - this.step;
       }
     },
     reset() {
@@ -46,4 +46,4 @@ export default {
 </script>
 
 <style>
-  </style>
+</style>
