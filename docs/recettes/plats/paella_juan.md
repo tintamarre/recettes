@@ -12,6 +12,7 @@ JSON:
   "portion_type": 'rations',
   "ingredients": [
   {
+  "name": "riz rond",
   "description": '(si riz à paella non disponible prendre du riz à risotto)',
   "qty": 1,
   "unity": "kg",
