@@ -1,9 +1,8 @@
 ---
 home: true
-# heroText: Recettes de cuisine
+heroText:  🔪 Recettes de cuisine 😋
 footer: Copyleft | 2020-now Famille
 ---
-:heart:
 
 Vous trouverez ici un ensemble de recettes familiales.
 

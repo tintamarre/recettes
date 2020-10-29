@@ -6,7 +6,7 @@
     <ul>
       <li v-for="(ingredient, index) in recette.ingredients" :key="index">
         <strong>{{ Math.round(ingredient.qty * (qty / portion_qty) * 100) / 100 }}</strong> {{ ingredient.unity }}
-        {{ ingredient.name }}  {{ ingredient.description }} ;
+        {{ ingredient.name }} <em>{{ ingredient.description }}</em> ;
       </li>
     </ul>
 

@@ -6,7 +6,6 @@ meta:
     content: hello
   - name: keywords
     content: sucré, haters-gonna-hate, 👵
-sidebarDepth: 2
 JSON:
     {
     "name": "Brownie de Francine",
@@ -18,31 +17,31 @@ JSON:
     "name": "chocolat noir 🍫",
     "description": 'de bonne qualité',
     "qty": 250,
-    "unity": "gr",
+    "unity": "gr de",
     },
     {
     "name": "sucre en poudre",
     "description": '',
     "qty": 150,
-    "unity": "gr",
+    "unity": "gr de",
     },
     {
     "name": "beurre",
     "description": '🧈',
     "qty": 150,
-    "unity": "gr",
+    "unity": "gr de",
     },
     {
     "name": "surcre vanillé",
     "description": '',
     "qty": 1,
-    "unity": "sachet(s)",
+    "unity": "sachet(s) de",
     },
     {
     "name": "sel",
     "description": '(ou mettre du beurre salé)',
     "qty": 1,
-    "unity": "pincée(s)",
+    "unity": "pincée(s) de",
     },
     {
     "name": "œufs",
@@ -54,7 +53,7 @@ JSON:
     "name": "farine",
     "description": 'tamisée',
     "qty": 60,
-    "unity": "gr",
+    "unity": "gr de",
     },
 
     ]

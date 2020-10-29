@@ -18,7 +18,7 @@ node_modules
 .temp
 
 # Docs dist directory
-.vuepress/dist
+docs/.vuepress/dist
 
 # Typescript build dist
 packages/@vuepress/shared-utils/lib/

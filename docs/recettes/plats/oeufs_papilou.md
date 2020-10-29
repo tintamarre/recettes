@@ -1,5 +1,5 @@
 ---
-title: Œufs de papilou 🍳⛵🧓
+title: Œufs de Papilou 🍳⛵🧓
 sidebar: auto
 meta:
   - name: keywords
@@ -21,19 +21,19 @@ JSON:
       "name": "sel",
       "description": 'marin (évidemment)',
       "qty": 2,
-      "unity": "pincée",
+      "unity": "pincée(s)",
       },
       {
       "name": "poivre",
       "description": '',
       "qty": 1,
-      "unity": "pincée",
+      "unity": "pincée(s)",
       },
       {
       "name": "beurre",
-      "description": 'fermier (jaune)',
+      "description": "fermier (🧈 si il est bien jaune, c'est que la vache a mangé des paquerettes fraiches!)",
       "qty": 1,
-      "unity": "noquette",
+      "unity": "noquette(s) de",
       },
 
       ]
@@ -48,5 +48,10 @@ JSON:
 
 <recipePortion :recette="$page.frontmatter.JSON" />
 
-
 # Recette
+
+::: tip
+
+À suivre
+
+:::

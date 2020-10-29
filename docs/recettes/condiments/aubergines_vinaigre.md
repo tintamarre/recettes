@@ -1,12 +1,11 @@
 ---
-title: Aubergine vinaigre
+title: Aubergine vinaigre 🍆
 sidebar: auto
 meta:
   - name: description
     content: hello
   - name: keywords
-    content: super duper SEO
-sidebarDepth: 2
+    content: condiments, salades
 ---
 # {{ $page.title }}
 
