@@ -15,8 +15,8 @@ Voici la version testée pour ce grand classique de la lenteur... Accompagné ic
 (pour 6-8 pers.)
 
 ### Pour l'agneau:
-- 1 gigot d'agneau de 2,5 kg, désossé et recousu avec l'os par le boucher,
-- 500 g de ragoût d'agneau,
+- 1 gigot d'agneau de 2,5 kg, désossé et recousu avec l'os par le boucher ;
+- 500 g de ragoût d'agneau ;
 - 30 cl de vin blanc sec
 - 2 oignons
 - 4 petites carottes
@@ -24,11 +24,11 @@ Voici la version testée pour ce grand classique de la lenteur... Accompagné ic
   - 1 feuille de laurier
   - 2 brins de thym
   - 1 brin de romarin
-  - quelques tiges de persil
+  - 5 tiges de persil
   - 2 feuilles de sauge
   - 3 clous de girofle
 - une dizaine de grains de poivre noir
-- quelques graines de coriandre)
+- quelques graines de coriandre
 - 3 tomates
 - 1 tête d'ail
 - 30 cl de fond de veau maison allongé pour obtenir 1L de bouillon
@@ -52,7 +52,7 @@ Préparer la pâte à luter en mélangeant la farine et l'eau. Fermer hermétiqu
 Sortir le gigot et le laisser reposer au chaud dans le four pendant au moins une demi-heure.
 
 ### Phase 4
-Pendant ce temps, préparer la purée et les navets (cf. ci-dessous) et passer le bouillon au chinois. En faire réduire quelques louches dans une casserole afin d'obtenir la sauce.
+Pendant ce temps, préparer la purée et les navets et passer le bouillon au chinois. En faire réduire quelques louches dans une casserole afin d'obtenir la sauce.
 
 Découper de belles tranches de gigot, servir avec la purée, les navets et la sauce.
 

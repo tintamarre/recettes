@@ -3,7 +3,7 @@ title: Boulets liégeoises
 sidebar: auto
 meta:
   - name: keywords
-    content: salé, 2010
+    content: salé, 2010, plat, erpicum-giner-lloret
 JSON:
   {
   "name": "Boulets liégeoises",

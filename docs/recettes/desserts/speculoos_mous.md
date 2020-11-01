@@ -2,9 +2,10 @@
 title: Spéculoos mous
 sidebar: auto
 meta:
+  - name: description
+    content: Recette retrouvé dans un vieux grimoire de Mamy Coune.
   - name: keywords
-    content: sucré, 2020
-# JSON: { "Farine": 1000, "Eau": 570, "Sel": 30, "Levure": 1 }
+    content: sucré, 1950
 JSON:
   {
   "name": "Spéculoos mous",
@@ -31,7 +32,7 @@ JSON:
   "unity": "c à café",
   },
   {
-  "name": "canelle",
+  "name": "cannelle",
   "description": '',
   "qty": 1,
   "unity": "c à café",

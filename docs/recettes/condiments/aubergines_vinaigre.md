@@ -1,44 +1,77 @@
 ---
-title: Aubergine vinaigre 🍆
+title: Aubergines au vinaigre 🍆
 sidebar: auto
 meta:
   - name: description
-    content: hello
+    content: Parfait dans des salades ou sur des toasts en apéritif. Se garde longtemps au frigo.
   - name: keywords
     content: condiments, salades
+JSON:
+      {
+      "name": "Aubergines au vinaigre 🍆",
+      "portion_qty": 5,
+      "portion_step": 1,
+      "portion_type": 'aubergines',
+      "ingredients": [
+      {
+      "name": "aubergines",
+      "description": '',
+      "qty": 5,
+      "unity": "",
+      },
+      {
+      "name": "sel",
+      "description": '',
+      "qty": 30,
+      "unity": "gr de",
+      },
+      {
+      "name": "huile d'olive",
+      "description": '',
+      "qty": 100,
+      "unity": "ml d'",
+      },
+      {
+      "name": "origan",
+      "description": '',
+      "qty": 20,
+      "unity": "gr de",
+      },
+      {
+      "name": "ail",
+      "description": '',
+      "qty": 10,
+      "unity": "gousses d'",
+      },
+      {
+      "name": "eau",
+      "description": '',
+      "qty": 1,
+      "unity": "l d'",
+      },
+      {
+      "name": "vinaigre",
+      "description": '',
+      "qty": 10,
+      "unity": "cl de",
+      },
+      ]
+      }
 ---
 # {{ $page.title }}
 
 ## Ingrédients
 
-- 1kg d'aubergines (3 grosses)
-- une poignée de gros sel
-- origan frais ou en poudre
-- 6 gousses d'ail
-- 2 petits poivrons séchés
-- 6 c à s de vinaigre de vin blanc
-- 2 l d'eau
-- huile d'olive
+<recipePortion :recette="$page.frontmatter.JSON" />
 
-## Prépartion
+## Préparation
 
-- Éplucher les aubergines
-- Couper les aubergines en cube de 1 cm
-- Les saler et les écrasers pour faire sortir l'eau ;
-- 24h
-- Mélanger avec de l'origan de l'ail et du vinaigre 10%
-- Eplucher les aubergines
-- Les couper en tranches d'environ 1 cm d'épaisseur
-- Couper les tranches en bâtonnets d'un demi centimètre de large
-- Déposer les aubergines sur un linge et mettre le gros sel dessus en faisant trois couches
-- refermer le linge en serrant
-- Déposer le linge dans une passoire
-- Mettre sur le linge un poids (par exemple une casserole remplie d'eau)
-- Attendre plusieurs heures voire toute une nuit
-- Cette opération est indispensable pour éliminer l'amertume des aubergines et les faire dégorger de leur eau.
-- Après le temps d'attente, laver les aubergines et les sécher.
-- Faire bouillir de l'eau additionnée de vinaigre.
-- Quand l'eau bouillonne, y verser les aubergines et laisser bouillir pendant trois minutes
-- Egoutter les aubergines et les déposer sur un autre linge.
-- Refermer le linge en le serrant fortement et comme précédemment le déposer dans la passoire avec le poids par dessus.
-- Attendre plusieurs heures
+- Éplucher les aubergines ;
+- Couper les aubergines en cube de 1 cm ;
+- Les saler en plusieurs couche et laisser reposer 12h pour faire sortir l'eau ;
+- Après 12h les égouter en écransant pour faire sortir l'eau ;
+  - Utiliser un gros linge pour serrer et une passoire ;
+  - Cette opération est indispensable pour éliminer l'amertume des aubergines et les faire dégorger de leur eau ;
+- Après le temps d'attente, laver les aubergines et les sécher ;
+- Refaire l'opération du linge en le serrant fortement pour égouter le sortir le jus ;
+- Mélanger avec de l'origan, de l'ail, du vinaigre 10% et couvrir d'huile d'olive ;

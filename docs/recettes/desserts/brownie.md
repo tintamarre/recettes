@@ -3,9 +3,9 @@ title: Brownie de Grand mère 👵
 sidebar: auto
 meta:
   - name: description
-    content: hello
+    content: Recette de brownie trouvée sur internet et pratiqué par la famille pendant des années
   - name: keywords
-    content: sucré, haters-gonna-hate, 👵
+    content: sucré, haters-gonna-hate, 👵, erpicum
 JSON:
     {
     "name": "Brownie de Francine",
@@ -55,7 +55,6 @@ JSON:
     "qty": 60,
     "unity": "gr de",
     },
-
     ]
     }
 ---

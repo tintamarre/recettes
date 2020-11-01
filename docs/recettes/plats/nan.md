@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 2015
+  - name: description
+    content: Recette très pratique à faire au dernier moment
 
 JSON:
       {
