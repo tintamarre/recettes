@@ -14,10 +14,20 @@ JSON:
   "portion_type": 'cougnou(s)',
   "ingredients": [
   {
+  "name": "eau",
+  "description": '',
+  "qty": 130,
+  "unity": "ml. de",
+  },
   "name": "farine",
   "description": 'à patisserie',
   "qty": 600,
   "unity": "gr. de",
+  },
+  "name": "lat",
+  "description": '',
+  "qty": 100,
+  "unity": "ml. de",
   },
   {
   "name": "bicarbonate",
