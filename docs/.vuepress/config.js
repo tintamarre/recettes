@@ -4,10 +4,10 @@ module.exports = {
   plugins: ['@vuepress/last-updated', '@vuepress/back-to-top'],
   title: 'Recettes familiales',
   description: '‍👴👵 Recettes de cuisine familiales traversant les générations 👨‍👩‍👧‍👧👪👨👧👨‍👩‍👦👧‍👩🧒',
-  base: '/recettes/',
+  base: '/',
   themeConfig: {
     repo: 'tintamarre/recettes',
-    repoLabel: 'Participez!',
+    repoLabel: 'Participer',
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: true,

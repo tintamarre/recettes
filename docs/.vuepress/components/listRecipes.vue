@@ -15,7 +15,7 @@
             <div v-if="page.frontmatter.meta" v-for="meta in page.frontmatter.meta">
 
             <span v-if="meta.name == 'status'">
-              <Badge :text="meta.content" type="error" v-if="meta.content == 'draft'" />
+              <Badge :text="meta.content" type="warning" v-if="meta.content == 'draft'" />
               <Badge :text="meta.content" type="tip" v-if="meta.content == 'published'" />
             </span>
 
