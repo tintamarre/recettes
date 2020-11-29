@@ -1,17 +1,19 @@
 ---
-title: Cookies de Marguerite
+title: Spéculoos mous
 sidebar: auto
 meta:
   - name: description
-    content: Recette de Marguerite lorsqu'elle était à la crèche et qu'elle était gardée par une des filles de la boulangerie Groffy
+    content: Recette retrouvé dans un vieux grimoire de Mamy Coune.
   - name: keywords
-    content: sucré, 2017, erpicum-giner-lloret
+    content: sucré, 1950
+  - name: status
+    content: published
 JSON:
   {
-  "name": "Cookies de Marguerite",
-  "portion_qty": 20,
-  "portion_step": 10,
-  "portion_type": 'cookies',
+  "name": "Spéculoos mous",
+  "portion_qty": 10,
+  "portion_step": 5,
+  "portion_type": 'spéculoos',
   "ingredients": [
   {
   "name": "farine",
@@ -22,56 +24,56 @@ JSON:
   {
   "name": "bicarbonate",
   "description": '',
-  "qty": 1,
+  "qty": 0.5,
   "unity": "c à café",
   },
   {
-  "name": "levure chimique",
-  "description": '(ou un 1/2 sachet)',
-  "qty": 1,
+  "name": "4 épices",
+  "description": '(sucrées!)',
+  "qty": 0.5,
   "unity": "c à café",
   },
   {
-  "name": "sel",
-  "description": '(ou un 1/2 sachet)',
-  "qty": 0.25,
-  "unity": "c à café",
-  },
-
-  {
-  "name": "flocons d’avoine",
+  "name": "cannelle",
   "description": '',
-  "qty": 100,
-  "unity": "gr",
+  "qty": 1,
+  "unity": "c à café",
+  },
+  {
+  "name": "muscade",
+  "description": '',
+  "qty": 1,
+  "unity": "pincée",
   },
 
   {
-  "name": "pépites de chocolat",
+  "name": "cassonade brune",
   "description": '',
   "qty": 150,
   "unity": "gr",
   },
 
   {
-  "name": "sucre roux",
-  "description": '',
+  "name": "beurre",
+  "description": 'ramolli',
   "qty": 100,
   "unity": "gr",
   },
 
   {
-  "name": "sucre blanc",
+  "name": "lait",
   "description": '',
-  "qty": 100,
-  "unity": "gr",
+  "qty": 3,
+  "unity": "c à soupe",
   },
 
   {
-  "name": "beurre mou",
+  "name": "amandes effilées",
   "description": '',
-  "qty": 150,
+  "qty": 25,
   "unity": "gr",
   },
+
   {
   "name": "oeuf(s) battu(s)",
   "description": '',
@@ -82,9 +84,9 @@ JSON:
 
   }
 ---
-# :cookie: Cookies de Marguerite (fête des mamans Mai 2017 🤱)
+# 🎄 {{ $page.title }}
 
-**Crédits [Boulangerie Groffy](https://www.groffy.be/)**
+:book: Vieux grimoire de Mamy Coune (Rinkin)
 
 ## Ingrédients
 
@@ -93,6 +95,6 @@ JSON:
 ## Mise en oeuvre
 - Préchauffer le four à 180 degrés ;
 - Mélanger les ingrédients (en terminant par les éléments mous)  ;
-- Former des boules de la taille d’une boule de golf ;
+- Former des Speculoos de la taille ;
 - Disposez-les sur une plaque de cuisson avec du papier sulfurisé ;
 - Enfourner avec 13 à 15 minutes de cuisson ;

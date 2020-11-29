@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, plat,
+  - name: status
+    content: draft
 JSON:
   {
   "name": "Porcs aux aubergines version rapide (Clara)",

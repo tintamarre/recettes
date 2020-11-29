@@ -6,6 +6,8 @@ meta:
     content: Recette de Mad.
   - name: keywords
     content: sucré, 2020, erpicum
+  - name: status
+    content: draft
 ---
 
 # Ingrédients

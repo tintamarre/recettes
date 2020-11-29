@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 2015
+  - name: status
+    content: draft
 ---
 
 # {{ $page.title }}

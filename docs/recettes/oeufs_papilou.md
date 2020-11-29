@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 1952
+  - name: status
+    content: published
 JSON:
       {
       "name": "Œufs",

@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 2008, italian,
+  - name: status
+    content: draft
 JSON:
   {
   "name": "Sauce bolognaise",

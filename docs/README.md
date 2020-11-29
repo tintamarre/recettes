@@ -9,4 +9,4 @@ Vous trouverez ici un ensemble de recettes familiales.
 <listRecipes />
 
 
-Publié à l'adresse : <https://tintamarre.github.io/recettes/>
+Publié à l'adresse : <https://recettes.erpicum.net>

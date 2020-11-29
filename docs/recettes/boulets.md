@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, 2010, plat, erpicum-giner-lloret
+  - name: status
+    content: draft
 JSON:
   {
   "name": "Boulets liégeoises",

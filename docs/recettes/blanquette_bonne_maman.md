@@ -1,12 +1,16 @@
 ---
-title: Gateau fruits confits
+title: Blanquette de bonne Maman
 sidebar: auto
 meta:
   - name: keywords
-    content: salé, 1935
+    content: salé, 1935, toussaint, plat
+  - name: description
+    content: Recette de Bonne maman Toussaint
+  - name: status
+    content: draft
 JSON:
       {
-      "name": "Gateau fruits confits",
+      "name": "Blanquette de bonne Maman",
       "portion_qty": 1,
       "portion_step": 1,
       "portion_type": 'personne(s)',

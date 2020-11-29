@@ -6,6 +6,8 @@ meta:
     content: Recette testée pour la première fois en hiver 2020
   - name: keywords
     content: sucré, 2020, erpicum-giner-lloret
+  - name: status
+    content: published
 JSON:
   {
   "name": "Cougnous",
@@ -14,20 +16,34 @@ JSON:
   "portion_type": 'cougnou(s)',
   "ingredients": [
   {
-  "name": "eau",
-  "description": '',
-  "qty": 130,
-  "unity": "ml. de",
-  },
   "name": "farine",
   "description": 'à patisserie',
   "qty": 600,
   "unity": "gr. de",
   },
-  "name": "lat",
+  {
+  "name": "eau",
+  "description": '',
+  "qty": 130,
+  "unity": "ml. de",
+  },
+  {
+  "name": "lait",
   "description": '',
   "qty": 100,
   "unity": "ml. de",
+  },
+  {
+  "name": "oeufs",
+  "description": '',
+  "qty": 2,
+  "unity": "",
+  },
+  {
+  "name": "beurre",
+  "description": '',
+  "qty": 120,
+  "unity": "gr. de",
   },
   {
   "name": "bicarbonate",
@@ -48,31 +64,18 @@ JSON:
   "unity": "gr. de",
   },
   {
-  "name": "beurre",
-  "description": '',
-  "qty": 120,
-  "unity": "gr. de",
-  },
-
-  {
   "name": "sucre fin",
   "description": '',
   "qty": 20,
   "unity": "gr. de",
   },
-
   {
   "name": "raisins, sucre perlé ou pépites de chocolat",
   "description": '',
   "qty": 200,
   "unity": "gr. de",
   },
-  {
-  "name": "oeufs",
-  "description": '',
-  "qty": 2,
-  "unity": "",
-  },
+
   ]
 
   }
@@ -92,7 +95,7 @@ JSON:
 - Malaxer 20 min l'ensemble des ingrédients (sauf les raisins) ;
 - Laisser lever 1h dans un cul de poule ;
 - Remalaxer 5 minutes, en incorporant les raisins ;
-- Refaire lever la pate ;
+- Refaire lever la pate au moins 1h;
 - Former les cougnous ;
-- Cuire +/- 20 minutes au four à 180-200 degrés C ;
+- Cuire +/- 20 minutes au four à 180-200 degrés C. ;
 - Badigeonner les cougnous avec du jaune d'oeuf mélangé avec de l'eau les 5 dernières minutes ;

@@ -3,6 +3,7 @@
     <table>
       <thead>
         <tr>
+          <th>Status</th>
           <th>Recettes</th>
           <th>Tags</th>
           <th>Dernière mise à jour</th>
@@ -10,6 +11,18 @@
       </thead>
 
       <tr v-for="page in $site.pages" v-if="page.title != 'Home'" >
+        <td>
+            <div v-if="page.frontmatter.meta" v-for="meta in page.frontmatter.meta">
+
+            <span v-if="meta.name == 'status'">
+              <Badge :text="meta.content" type="error" v-if="meta.content == 'draft'" />
+              <Badge :text="meta.content" type="tip" v-if="meta.content == 'published'" />
+            </span>
+
+          </div>
+
+
+        </td>
         <td>
           <a :href="page.relativePath.slice(0, -3)">{{ page.title }}</a>
 

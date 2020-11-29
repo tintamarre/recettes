@@ -4,6 +4,8 @@ sidebar: auto
 meta:
   - name: keywords
     content: salé, four, 2020
+  - name: status
+    content: published
 JSON:
   {
   "name": "Patons à pizza",

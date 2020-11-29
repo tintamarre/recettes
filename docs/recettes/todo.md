@@ -2,6 +2,11 @@
 title: Recettes au four
 sidebar: auto
 sidebarDepth: 2
+meta:
+  - name: keywords
+    content: salé
+  - name: status
+    content: draft
 ---
 
 
