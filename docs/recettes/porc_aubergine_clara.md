@@ -1,11 +1,12 @@
 ---
 title: Porcs aux aubergines version rapide (Clara)
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, plat,
-  - name: status
-    content: draft
+
 JSON:
   {
   "name": "Porcs aux aubergines version rapide (Clara)",

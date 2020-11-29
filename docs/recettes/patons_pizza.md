@@ -1,11 +1,12 @@
 ---
 title: Patons à pizza
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, four, 2020
-  - name: status
-    content: published
+
 JSON:
   {
   "name": "Patons à pizza",

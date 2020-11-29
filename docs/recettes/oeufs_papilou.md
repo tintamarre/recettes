@@ -1,11 +1,12 @@
 ---
 title: Œufs de Papilou 🍳⛵🧓
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 1952
-  - name: status
-    content: published
+
 JSON:
       {
       "name": "Œufs",

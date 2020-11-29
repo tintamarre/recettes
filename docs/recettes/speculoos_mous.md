@@ -1,13 +1,14 @@
 ---
 title: Spéculoos mous
 sidebar: auto
+status: published
+
 meta:
   - name: description
     content: Recette retrouvé dans un vieux grimoire de Mamy Coune.
   - name: keywords
     content: sucré, 1950
-  - name: status
-    content: published
+
 JSON:
   {
   "name": "Spéculoos mous",

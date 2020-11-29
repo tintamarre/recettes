@@ -1,11 +1,12 @@
 ---
 title: Recette de pain à la machine
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 2015
-  - name: status
-    content: draft
+
 ---
 
 

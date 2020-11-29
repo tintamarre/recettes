@@ -1,13 +1,13 @@
 ---
 title: Cougnous ou **Mitchi ca cai**
 sidebar: auto
+status: published
 meta:
   - name: description
     content: Recette testée pour la première fois en hiver 2020
   - name: keywords
     content: sucré, 2020, erpicum-giner-lloret
-  - name: status
-    content: published
+
 JSON:
   {
   "name": "Cougnous",

@@ -1,13 +1,14 @@
 ---
 title: Aubergines au vinaigre 🍆
 sidebar: auto
+status: published
+
 meta:
   - name: description
     content: Parfait dans des salades ou sur des toasts en apéritif. Se garde longtemps au frigo.
   - name: keywords
     content: condiments, salades
-  - name: status
-    content: published
+
 JSON:
       {
       "name": "Aubergines au vinaigre 🍆",

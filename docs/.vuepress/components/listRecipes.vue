@@ -9,18 +9,12 @@
           <th>Dernière mise à jour</th>
         </tr>
       </thead>
-
       <tr v-for="page in $site.pages" v-if="page.title != 'Home'" >
+
+      <!-- <tr v-for="page in $site.pages" v-if="page.title != 'Home' && page.frontmatter.status == 'published'" > -->
         <td>
-            <div v-if="page.frontmatter.meta" v-for="meta in page.frontmatter.meta">
-
-            <span v-if="meta.name == 'status'">
-              <Badge :text="meta.content" type="warning" v-if="meta.content == 'draft'" />
-              <Badge :text="meta.content" type="tip" v-if="meta.content == 'published'" />
-            </span>
-
-          </div>
-
+          <Badge :text="page.frontmatter.status" type="warning" v-if="page.frontmatter.status == 'draft'" />
+          <Badge :text="page.frontmatter.status" type="info" v-if="page.frontmatter.status == 'published'" />
 
         </td>
         <td>

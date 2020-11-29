@@ -1,11 +1,11 @@
 ---
 title: Paella mixta de Juan
 sidebar: auto
+status: draft
 meta:
   - name: keywords
     content: salé, 2015
-  - name: status
-    content: draft
+
 JSON:
   {
   "name": "Paella mixta de Juan",

@@ -1,13 +1,14 @@
 ---
 title: Blanquette de bonne Maman
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 1935, toussaint, plat
   - name: description
     content: Recette de Bonne maman Toussaint
-  - name: status
-    content: draft
+
 JSON:
       {
       "name": "Blanquette de bonne Maman",

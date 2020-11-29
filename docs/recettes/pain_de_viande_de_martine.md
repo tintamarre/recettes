@@ -1,11 +1,10 @@
 ---
 title: Pain de viande de Martine
 sidebar: auto
+status: draft
 meta:
   - name: keywords
     content: salé, 2015
-  - name: status
-    content: draft
 ---
 
 # {{ $page.title }}

@@ -1,11 +1,12 @@
 ---
 title: Gateau fruits confits
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 1935
-  - name: status
-    content: draft
+
 JSON:
       {
       "name": "Gateau fruits confits",

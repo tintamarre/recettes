@@ -1,11 +1,12 @@
 ---
 title: Recette de sauce bolognaise
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 2008, italian,
-  - name: status
-    content: draft
+
 JSON:
   {
   "name": "Sauce bolognaise",

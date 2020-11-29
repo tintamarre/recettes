@@ -1,13 +1,13 @@
 ---
 title: Cookies de Marguerite
 sidebar: auto
+status: draft
 meta:
   - name: description
     content: Recette de Marguerite lorsqu'elle était à la crèche et qu'elle était gardée par une des filles de la boulangerie Groffy
   - name: keywords
     content: sucré, 2017, erpicum-giner-lloret
-  - name: status
-    content: published
+
 JSON:
   {
   "name": "Cookies de Marguerite",

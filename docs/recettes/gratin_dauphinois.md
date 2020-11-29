@@ -1,11 +1,12 @@
 ---
 title: Gratin dauphinois de bonne Maman
 sidebar: auto
+status: draft
+
 meta:
   - name: keywords
     content: salé, 1935
-  - name: status
-    content: draft
+
 JSON:
       {
       "name": "Gratin dauphinois de bonne Maman",
