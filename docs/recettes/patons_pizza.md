@@ -1,12 +1,12 @@
 ---
-title: Patons à pizza
+title: Patons à pizza 🍕
 sidebar: auto
-status: draft
-
+status: published
 meta:
   - name: keywords
     content: salé, four, 2020
-
+  - name: description
+    content: Recette de paton résultant de plusieurs mois d'essais/erreurs en 2020.
 JSON:
   {
   "name": "Patons à pizza",

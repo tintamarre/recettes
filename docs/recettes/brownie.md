@@ -1,7 +1,7 @@
 ---
 title: Brownie de Grand mère 👵
 sidebar: auto
-status: draft
+status: published
 meta:
   - name: description
     content: Recette de brownie trouvée sur internet et pratiqué par la famille pendant des années
@@ -66,14 +66,16 @@ JSON:
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation
-1. Préchauffer le four à 180 degrés
-2. Faire un bain marie avec le beurre le chocolat noir ;
-3. Beurre le moule ;
+
+1. Préchauffer le four à 180 degrés ;
+2. Faire un bain marie avec le beurre et le chocolat noir ;
+3. Beurrer le moule ;
 4. Ajouter le sucre, le sucre vanillé, la farine et les oeufs en omelettes au mix beurre + chocolat ;
 5. Verser la préparation dans le moule et enfourner 15 min, puis laisser 5 minutes dans le four éteint ;
 6. Laisser refroidir 30 min, puis mettre au frigo pendant au moins 2h ;
 7. Démouler le gateau et puis découpez en parts individuelles ;
 
 ## Optionnel
-- Ajouter des noix (pécan, amande, etc.) dans la préparation.
-- Déguster avec une boule de glace vanille
+
+- Ajouter des noix (pécan, amande, etc.) dans la préparation ;
+- Déguster avec une boule de glace vanille ;

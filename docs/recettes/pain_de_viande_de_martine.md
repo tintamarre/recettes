@@ -9,6 +9,9 @@ meta:
 
 # {{ $page.title }}
 
+![](https://i.imgur.com/7HOeU3e.jpg)
+
+
 ## Ingrédients
 
 <!-- <recipePortion :recette="$page.frontmatter.JSON" /> -->

@@ -44,6 +44,9 @@ JSON:
 
 ## Ingrédients
 
+![](https://i.imgur.com/aXOdcfL.jpg)
+![](https://i.imgur.com/DbKbJeC.jpg)
+
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Préparation

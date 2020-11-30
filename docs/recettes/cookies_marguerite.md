@@ -1,7 +1,7 @@
 ---
-title: Cookies de Marguerite
+title: Cookies de Marguerite 🍪
 sidebar: auto
-status: draft
+status: published
 meta:
   - name: description
     content: Recette de Marguerite lorsqu'elle était à la crèche et qu'elle était gardée par une des filles de la boulangerie Groffy
@@ -93,8 +93,9 @@ JSON:
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Mise en oeuvre
+
 - Préchauffer le four à 180 degrés ;
 - Mélanger les ingrédients (en terminant par les éléments mous)  ;
 - Former des boules de la taille d’une boule de golf ;
 - Disposez-les sur une plaque de cuisson avec du papier sulfurisé ;
-- Enfourner avec 13 à 15 minutes de cuisson ;
+- Enfourner avec 13 à 15 minutes de cuisson (en surveillant!) ;

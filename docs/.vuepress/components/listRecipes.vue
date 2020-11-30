@@ -9,13 +9,10 @@
           <th>Dernière mise à jour</th>
         </tr>
       </thead>
-      <tr v-for="page in $site.pages" v-if="page.title != 'Home'" >
-
-      <!-- <tr v-for="page in $site.pages" v-if="page.title != 'Home' && page.frontmatter.status == 'published'" > -->
+      <tr v-for="page in $site.pages.sort((a, b) => (a.frontmatter.status > b.frontmatter.status) ? -1 : +1)" v-if="page.title != 'Home'">
         <td>
           <Badge :text="page.frontmatter.status" type="warning" v-if="page.frontmatter.status == 'draft'" />
           <Badge :text="page.frontmatter.status" type="info" v-if="page.frontmatter.status == 'published'" />
-
         </td>
         <td>
           <a :href="page.relativePath.slice(0, -3)">{{ page.title }}</a>
@@ -28,7 +25,6 @@
               </small>
             </em>
           </div>
-
         </td>
         <td>
           <div v-if="page.frontmatter.meta" v-for="meta in page.frontmatter.meta">
@@ -46,6 +42,7 @@
         </td>
 
       </tr>
+      
     </table>
   </div>
 </template>
@@ -55,5 +52,20 @@
 </style>
 
 <script>
+
+export default {
+
+  data: function () {
+    return {}
+  },
+  methods: {
+
+  }
+}
+
+
+
+
+
 
 </script>
