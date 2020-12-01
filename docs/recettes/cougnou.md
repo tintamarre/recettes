@@ -1,5 +1,5 @@
 ---
-title: Cougnous ou **Mitchi ca cai**
+title: Cougnous ou **Mitchi ca cai**  👩‍🍳
 sidebar: auto
 status: published
 meta:

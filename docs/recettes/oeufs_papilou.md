@@ -1,7 +1,7 @@
 ---
 title: Œufs de Papilou 🍳⛵🧓
 sidebar: auto
-status: draft
+status: published
 
 meta:
   - name: keywords
@@ -32,6 +32,12 @@ JSON:
       "qty": 1,
       "unity": "pincée(s)",
       },
+         {
+      "name": "lard 🥓",
+      "description": '',
+      "qty": 2,
+      "unity": "tranches de",
+      },
       {
       "name": "beurre",
       "description": "fermier (🧈 si il est bien jaune, c'est que la vache a mangé des paquerettes fraiches!)",
@@ -51,10 +57,21 @@ JSON:
 
 <recipePortion :recette="$page.frontmatter.JSON" />
 
-# Recette
+# Recette 🍳
 
 ::: tip
 
-À suivre
+Pour ceux qui aiment des œufs sur le plat avec un blanc croustillant et un jaune pas trop cuit.
 
 :::
+
+- Déposer du beurre dans une poêle chaude de type téfal. 
+- Avant que le beurre ne brunisse, casser un œuf et déposer dans la poêle que le blanc (en faisant déplacer le jaune alternativement dans chaque demie coquille)
+- Lorsque le blanc est cuit, déposer le jaune. 
+- Dégustez!
+
+![](https://i.imgur.com/aFF7ktG.jpg)
+
+![](https://i.imgur.com/ZTs3vWR.jpg)
+
+![](https://i.imgur.com/hn9aVoD.jpg)
