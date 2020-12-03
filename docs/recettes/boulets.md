@@ -63,8 +63,13 @@ JSON:
   },
   ]
   }
----
 
+
+  
+---
+  // girofle
+  // biere
+  // ail
 # {{ $page.title }}
 
 ## Ingrédients
@@ -73,6 +78,9 @@ JSON:
 
 ## Préparation
 
+![](https://i.imgur.com/83m6XQG.jpg)
+![](https://i.imgur.com/csqtRP5.jpg)
+![](https://i.imgur.com/XY06g1N.jpg)
 
 ## Service
 
