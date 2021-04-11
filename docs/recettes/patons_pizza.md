@@ -1,5 +1,5 @@
 ---
-title: Patons à pizza 🍕
+title: Pâtons à pizza 🍕
 sidebar: auto
 status: published
 meta:
@@ -9,7 +9,7 @@ meta:
     content: Recette de paton résultant de plusieurs mois d'essais/erreurs en 2020.
 JSON:
   {
-  "name": "Patons à pizza",
+  "name": "Pâtons à pizza",
   "portion_qty": 6,
   "portion_step": 1,
   "portion_type": 'paton(s)',
@@ -41,7 +41,7 @@ JSON:
   }
 ---
 
-# :pizza: Patons à pizza
+# :pizza: Pâtons à pizza
 
 **Crédits [ASBL OpenJustice.be](https://openjustice.be)**
 
@@ -54,20 +54,20 @@ JSON:
 - Mélanger 10% de la farine, la levure, le sel, l'eau et laisser reposer 5 à 10 minutes pour activer la levure ;
   - Les glucides de la farine vont activer la levure ;
 - Ajouter les 90% restant de farine et malaxer pendant min 20 minutes.
-  - Personnelement, je commence avec ma machine à pain et puis à la main ;
-  - Le gluten doit s'activer (élasticité) et la pate ne doit plus coller aux mains ;
-- Poser la pate dans saladier et la laisser lever pendant 2 heures couverte d'un linge dans un endroit pas trop ventillé ;
+  - Personnellement, je commence avec ma machine à pain et puis à la main ;
+  - Le gluten doit s'activer (élasticité) et la pâte ne doit plus coller aux mains ;
+- Poser la pâte dans saladier et la laisser lever pendant 2 heures couverte d'un linge dans un endroit pas trop ventillé ;
 
 ::: tip Option
-Après les 2 heures, la pate peut reposer dans le frigo une nuit ou plus.
+Après les 2 heures, la pâte peut reposer dans le frigo une nuit ou plus.
 :::
 
 ### Phase 2
-- Diviser la pate en patons ;
-- Poser les patons dans une ou des boites hermétiques et les laisser lever pendant 6h ;
+- Diviser la pâte en pâtons ;
+- Poser les pâtons dans une ou des boites hermétiques et les laisser lever pendant 6h ;
 
 ### Phase 3
-- Étaler la pate:
+- Étaler la pâte:
   - soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) :hand: ;
   - soit au rouleau ;
 

@@ -58,10 +58,10 @@ JSON:
 
 ## Recette
 
-- Étaller la pate ;
-- Piquer la pate avec des gousses d'ail et des anchois ;
+- Étaler la pâte ;
+- Piquer la pâte avec des gousses d'ail et des anchois ;
 - Garnir avec des tranches d'oignons surmontées de tranches de tomates ;
 - Assaisonner et mettre un peu d'huile d'olive ;
 - Enfourner à min. 250 degrés ;
 
-![](https://i.imgur.com/8ADJlCk.jpg)
+![](https://i.imgur.com/Cq1pPac.jpg)
