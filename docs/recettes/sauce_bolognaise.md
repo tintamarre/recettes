@@ -22,7 +22,7 @@ JSON:
   },
   {
   "name": "tomates",
-  "description": '🍅 (ou équivalent en fraiches)',
+  "description": '🍅 (ou équivalent en fraiches si en saison)',
   "qty": 2,
   "unity": "boite(s) de 400 gr de",
   },
@@ -40,8 +40,14 @@ JSON:
   },
   {
   "name": "carottes",
-  "description": '',
+  "description": '(optionnel)',
   "qty": 4,
+  "unity": "",
+  },
+    {
+  "name": "poivrons",
+  "description": '(optionnel)',
+  "qty": 2,
   "unity": "",
   },
   {

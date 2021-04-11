@@ -79,3 +79,12 @@ Afin que la pizza ne colle pas à la pelle, le temps de garnissage ne doit pas d
 :::
 
 ## Bon appétit ! :yum:
+
+
+![](https://i.imgur.com/8ADJlCk.jpg)
+
+![](https://i.imgur.com/I0C44Vw.jpg)
+
+![](https://i.imgur.com/uq6V97X.jpg)
+
+![](https://i.imgur.com/vanzcrb.jpg)
