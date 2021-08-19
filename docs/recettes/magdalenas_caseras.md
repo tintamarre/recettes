@@ -1,7 +1,7 @@
 ---
-title: Magdalenas caseras   👩‍🍳
+title: Magdalenas caseras 👩‍🍳
 sidebar: auto
-status: draft
+status: published
 meta:
   - name: description
     content: Recette de madeleines à l'espagnole
@@ -29,9 +29,15 @@ JSON:
   },
   {
   "name": "huile",
-  "description": "de tournesol ou d'olive",
-  "qty": 190,
-  "unity": "ml. de",
+  "description": "d'olive",
+  "qty": 100,
+  "unity": "ml. ",
+  },
+  {
+  "name": "huile",
+  "description": "de tournesol",
+  "qty": 90,
+  "unity": "ml. ",
   },
   {
   "name": "oeufs",
@@ -75,6 +81,19 @@ Source : http://cocineraymadre.com/2017/01/11/magdalenas-caseras-con-copete-de-x
 ## Ingrédients
 
 <recipePortion :recette="$page.frontmatter.JSON" />
+
+## Recette
+- Mélanger les oeufs et le sucre jusqu'à ce que la pâte blanchisse et double de volume ;
+- Ajouter la cannelle, le zest de citron, le lait et l'huile ; et mélanger jusqu'à ce que les ingrédients soient complètement intégrés ; 
+- À côté, mélanger la farine, la levure et la pointe de sel ;
+- Ajouter ce mélange à la pâte oeufs/sucre en tamisant. Mélanger sans trop travailler la pâte jusqu'à ce que la farine soit complètement intégrée ;
+- Laisser reposer la pâte au moins 1 h au Frigo (le choc thermique, chaud/froid est la clef de la réussite de la recette). La pâte peut reposer plusieurs heures au frigo ;
+- Préchauffez le four à 225 degrés C (pas de chaleur tournante), et remplissez les moules à madeleine au 2/3 ;
+- Ajouter un peu de sucre sur le dessus de la madeleine pour la décoration ;
+- Cuire à 220 degrés C pendant 7-8 minutes jusqu'à ce qu'elle soit dorée ;
+- Poursuivre la cuisson 5-6 minutes à 180 degrés ;
+- Sortir du four et laisser refroidir. Elles doivent être esponjosas ;
+
 
 ## Elaboración
 

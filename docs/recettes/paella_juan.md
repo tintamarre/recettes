@@ -21,7 +21,7 @@ JSON:
   },
   {
   "name": "bouillon",
-  "description": 'de poisson + fruits de mer [marisco]',
+  "description": 'de poisson + fruits de mer [mariscos]',
   "qty": 2.5,
   "unity": "l de",
   },
@@ -51,7 +51,7 @@ JSON:
   },
   {
   "name": "tomates",
-  "description": '(biens matures ou une conserve)',
+  "description": '(matures ou à défaut en conserve)',
   "qty": 3,
   "unity": "",
   },
