@@ -12,7 +12,7 @@ JSON:
   {
   "name": "Magdalenas caseras",
   "portion_qty": 14,
-  "portion_step": 4,
+  "portion_step": 7,
   "portion_type": 'madeleines',
   "ingredients": [
   {
@@ -28,14 +28,14 @@ JSON:
   "unity": "gr. de",
   },
   {
-  "name": "huile",
-  "description": "d'olive",
-  "qty": 100,
+  "name": "lait",
+  "description": "entier",
+  "qty": 60,
   "unity": "ml. ",
   },
   {
   "name": "huile",
-  "description": "de tournesol",
+  "description": "de tournesol ou d'olive",
   "qty": 90,
   "unity": "ml. ",
   },
