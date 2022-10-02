@@ -34,7 +34,7 @@ JSON:
     },
     {
     "name": "lait",
-    "description": "entier",
+    "description": "entier ou demi-écrémé",
     "qty": 125,
     "unity": "ml. ",
     },
@@ -65,7 +65,7 @@ JSON:
     ]
     }
 ---
-# :woman_cook: {{ $page.title }}
+# {{ $page.title }}
 
 ## Ingrédients
 
