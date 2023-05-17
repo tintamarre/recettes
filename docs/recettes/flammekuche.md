@@ -6,7 +6,7 @@ meta:
   - name: description
     content: Recette testée pour la première fois en hiver 2020
   - name: keywords
-    content: 2020, erpicum-giner-lloret
+    content: 2020, egl, salé, plat
 
 JSON:
   {
@@ -67,13 +67,14 @@ JSON:
   }
 ---
 
-# {{ $page.title }} 
+# {{ $page.title }}
 
 ## Ingrédients
 
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ![](https://i.imgur.com/70OcXOu.jpg)
+
 ## Préparation
 
 - Malaxer 20 min l'ensemble des ingrédients pour la pate (eau, farine, sel) ;

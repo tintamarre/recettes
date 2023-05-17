@@ -6,7 +6,7 @@ meta:
   - name: description
     content: Recette de madeleines à l'espagnole
   - name: keywords
-    content: sucré, 2020, erpicum-giner-lloret
+    content: sucré, 2020, egl, espagne
 
 JSON:
   {
@@ -75,16 +75,16 @@ JSON:
 ---
 # :woman_cook: {{ $page.title }}
 
-Source : http://cocineraymadre.com/2017/01/11/magdalenas-caseras-con-copete-de-xavier-barriga/
-
+Source : <http://cocineraymadre.com/2017/01/11/magdalenas-caseras-con-copete-de-xavier-barriga/>
 
 ## Ingrédients
 
 <recipePortion :recette="$page.frontmatter.JSON" />
 
 ## Recette
+
 - Mélanger les oeufs et le sucre jusqu'à ce que la pâte blanchisse et double de volume ;
-- Ajouter la cannelle, le zest de citron, le lait et l'huile ; et mélanger jusqu'à ce que les ingrédients soient complètement intégrés ; 
+- Ajouter la cannelle, le zest de citron, le lait et l'huile ; et mélanger jusqu'à ce que les ingrédients soient complètement intégrés ;
 - À côté, mélanger la farine, la levure et la pointe de sel ;
 - Ajouter ce mélange à la pâte oeufs/sucre en tamisant. Mélanger sans trop travailler la pâte jusqu'à ce que la farine soit complètement intégrée ;
 - Laisser reposer la pâte au moins 1 h au Frigo (le choc thermique, chaud/froid est la clef de la réussite de la recette). La pâte peut reposer plusieurs heures au frigo ;
@@ -93,7 +93,6 @@ Source : http://cocineraymadre.com/2017/01/11/magdalenas-caseras-con-copete-de-x
 - Cuire à 220 degrés C pendant 7-8 minutes jusqu'à ce qu'elle soit dorée ;
 - Poursuivre la cuisson 5-6 minutes à 180 degrés ;
 - Sortir du four et laisser refroidir. Elles doivent être esponjosas ;
-
 
 ## Elaboración
 

@@ -40,7 +40,7 @@ JSON:
     },
     {
     "name": "oeufs",
-    "description": '',
+    "description": 'pour la pâte et pour la dorure',
     "qty": 2,
     "unity": "",
     },
@@ -78,3 +78,5 @@ JSON:
 2. Couvrez le saladier d'un torchon et laissez reposer la pâte pendant 1h30 à température ambiante, le temps qu'elle double de volume. Ensuite, reboulez la pâte pour en chasser l'air. Divisez-la en 3 morceaux et en faire des boudins. Tressez les boudins entre eux et placez-les dans un moule à cake beurré.  Dorez la brioche avec le jaune d'oeuf ou un peu de lait, puis laissez lever à nouveau pendant 30 min.
   
 3. Préchauffez le four à 180°C. Enfournez la brioche et laissez cuire pendant 30 à 40 minutes. Laissez refroidir avant de déguster.
+
+![brioche_fleur_d_oranger](https://i.imgur.com/OpZWDdM.jpg)
