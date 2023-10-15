@@ -85,7 +85,7 @@ JSON2:
   "unity": "gr.",
   },
   {
-  "name": "oeuf",
+  "name": "oeufs",
   "description": '',
   "qty": 3,
   "unity": "",
