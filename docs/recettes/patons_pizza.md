@@ -57,30 +57,30 @@ JSON:
 
 ### Phase 1
 
-- Mélanger 10% de la farine, la levure, le sel, l'eau et laisser reposer minimum 5 à 10 minutes ;
+- Mélanger correctement +/- 10% de la farine, la levure, le sel, l'eau et laisser reposer minimum 5 à 10 minutes ;
   - Les glucides de la farine vont activer la levure ;
-- Ajouter les 90% restant de farine et malaxer pendant min 20 minutes.
+- Après le repos, ajouter les 90% restant de farine et malaxer pendant min 20 minutes.
   - Je commence avec une machine et je termine à la main ;
   - Le gluten doit s'activer (élasticité) et la pâte ne doit plus coller aux mains ;
 - Poser la pâte dans saladier et la laisser lever pendant 2 heures couverte d'un linge dans un endroit pas trop ventillé ;
 
-::: tip Option
-Après les 2 heures, la pâte peut reposer dans le frigo une nuit ou plus.
-:::
-
 ### Phase 2
 
-- Diviser la pâte en pâtons ;
-- Poser les pâtons dans une ou des boites hermétiques et les laisser lever pendant 6h ;
+- Poser la pâte dans une ou des boites hermétiques et les laisser lever pendant 24h à 72h ;
 
 ### Phase 3
 
-- Rouler les patons dans de la semoule de blé dur ;
-- Étaler la pâte:
-  - soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) :hand: ;
-  - soit au rouleau ;
+- Diviser la pâte en pâtons ;
+- Laisser à température ambiantes les pâtons pendant 4h à 8h dans des boites hermétiques ;
 
 ### Phase 4
+
+- Rouler les patons dans de la semoule de blé dur ;
+- Étaler la pâte:
+  - Soit à la main ([technique de la fessée](https://www.youtube.com/watch?v=xzbW8CZx538)) :hand: ;
+  - Soit au rouleau ;
+
+### Phase 5
 
 - Garnissage et enfournage ;
 

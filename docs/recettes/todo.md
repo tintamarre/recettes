@@ -32,8 +32,6 @@ Demander à la boucherie de désosser le canard de l'intérieur et le farcir.
 Cette astuce facilite grandement le service...
 Sans désosser, on peut aussi prendre de l'argile et entourer le canard à la place de la pâte. Cela permet que la graisse migre vers la terre qui entoure le canard durant la cuisson.
 
-
-
 ## Dinde en daube
 Nos aïeux cuisinaient beaucoup de gibier et de volailles. Voici une de leurs recettes:
 
