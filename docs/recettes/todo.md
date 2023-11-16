@@ -98,3 +98,5 @@ Laver le poulet (ou la poule), le couper en morceaux et les ajouter au bouillon 
 - Retirer le waterzooi du feu et ajouter la crème en tournant (le waterzooi ne peut plus bouillir pour éviter que la sauce ne tourne).
 - Verser le waterzooi dans un grand plat. Servir avec le riz.
 «allei ça est bon pour la dalle»
+
+## Blanquette de veau

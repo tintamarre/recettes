@@ -7,9 +7,9 @@
   "author": "Martin Erpicum",
   "license": "MIT",
   "scripts": {
-    "serve": "vuepress dev docs",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "serve": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "docs:build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
