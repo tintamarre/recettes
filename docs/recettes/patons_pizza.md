@@ -88,7 +88,7 @@ JSON:
 Afin que la pizza ne colle pas à la pelle, le temps de garnissage doit être rapide et la pelle couverte de semoule.
 :::
 
-## Bon appétit ! :yum
+## Bon appétit ! :yum:
 
 ![](https://i.imgur.com/8ADJlCk.jpg)
 

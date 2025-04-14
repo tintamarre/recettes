@@ -12,8 +12,8 @@
     "docs:build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.7.1",
-    "vuepress": "^1.9.7"
+    "@vuepress/plugin-back-to-top": "1.7.1",
+    "vuepress": "1.9.7"
   },
   "dependencies": {
     "glob": "^7.1.6",
