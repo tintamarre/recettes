@@ -6,7 +6,7 @@ meta:
   - name: description
     content: Délicieuse recette de cake moelleux aux amandes et myrtilles, parfaite pour le goûter ou le petit-déjeuner.
   - name: keywords
-    content: cake, myrtilles, amandes, goûter, sucré, erpicum
+    content: cake, myrtilles, amandes, goûter, sucré
 JSON:
   {
     "name": "Cake Amandes Myrtilles",
