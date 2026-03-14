@@ -17,7 +17,7 @@ JSON:
   "ingredients": [
   {
   "name": "farine",
-  "description": 'typo 00 / 45 ',
+  "description": 'type 00 / T45',
   "qty": 1000,
   "unity": "gr.",
   },

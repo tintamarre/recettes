@@ -96,6 +96,6 @@ JSON:
 ## Mise en oeuvre
 - Préchauffer le four à 180 degrés ;
 - Mélanger les ingrédients (en terminant par les éléments mous)  ;
-- Former des Speculoos de la taille ;
+- Former des Spéculoos de la taille d'une noix ;
 - Disposez-les sur une plaque de cuisson avec du papier sulfurisé ;
 - Enfourner avec 13 à 15 minutes de cuisson ;

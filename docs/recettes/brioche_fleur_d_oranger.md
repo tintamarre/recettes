@@ -45,7 +45,7 @@ JSON:
     "unity": "",
     },
     {
-    "name": "eau de fleur doranger",
+    "name": "eau de fleur d'oranger",
     "description": '',
     "qty": 1,
     "unity": "cuillère à soupe d",

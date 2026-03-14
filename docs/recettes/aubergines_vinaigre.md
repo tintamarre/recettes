@@ -71,10 +71,10 @@ JSON:
 
 - Éplucher les aubergines ;
 - Couper les aubergines en cube de 1 cm ;
-- Les saler en plusieurs couche et laisser reposer 12h pour faire sortir l'eau ;
-- Après 12h les égouter en écransant pour faire sortir l'eau ;
+- Les saler en plusieurs couches et laisser reposer 12h pour faire sortir l'eau ;
+- Après 12h les égouter en écrasant pour faire sortir l'eau ;
   - Utiliser un gros linge pour serrer et une passoire ;
   - Cette opération est indispensable pour éliminer l'amertume des aubergines et les faire dégorger de leur eau ;
 - Après le temps d'attente, rincer les aubergines (pour enlever le sel) et les sécher ;
-- Refaire l'opération du linge en le serrant fortement pour égouter le sortir le jus ;
+- Refaire l'opération du linge en le serrant fortement pour égouter et sortir le jus ;
 - Mélanger avec de l'origan, de l'ail, du vinaigre 10% et couvrir d'huile d'olive ;

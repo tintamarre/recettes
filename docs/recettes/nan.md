@@ -24,7 +24,7 @@ JSON:
         },
 
         {
-        "name": "yahourt",
+        "name": "yaourt",
         "description": 'type grecque',
         "qty": 125,
         "unity": "gr",
@@ -68,4 +68,4 @@ JSON:
 
 - Malaxer pendant 20 minutes
 - Laisser reposer
-- Cuire au four ou à la poelle
+- Cuire au four ou à la poêle

@@ -66,7 +66,7 @@ Pour ceux qui aiment des œufs sur le plat avec un blanc croustillant et un jaun
 :::
 
 - Déposer du beurre dans une poêle chaude de type téfal. 
-- Avant que le beurre ne brunisse, casser un œuf et déposer dans la poêle que le blanc (en faisant déplacer le jaune alternativement dans chaque demie coquille)
+- Avant que le beurre ne brunisse, casser un œuf et déposer dans la poêle le blanc (en faisant déplacer le jaune alternativement dans chaque demie coquille)
 - Lorsque le blanc est cuit, déposer le jaune. 
 - Dégustez!
 
