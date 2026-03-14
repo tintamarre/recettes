@@ -22,7 +22,7 @@ JSON:
   },
   {
   "name": "aubergines",
-  "description": 'moyenne (j’ai testé en remplacant pas des courgettes, ca le fait pas par contre ajouter des champignons c’est pas si mal)',
+  "description": 'moyenne (j’ai testé en remplaçant par des courgettes, ça ne le fait pas par contre ajouter des champignons c’est pas si mal)',
   "qty": 5,
   "unity": "",
   },

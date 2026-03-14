@@ -29,6 +29,6 @@ meta:
 Programme 4.
 
 ## Autre conseils
-- Mettre la machine à pains dans un endroit ventillé, sec et frais ;
+- Mettre la machine à pains dans un endroit ventilé, sec et frais ;
 - Garder la farine dans ce même endroit -- sinon tu risques les mites alimentaires ;
 - Pour ces mêmes raisons, ne pas acheter trop de kilos de farine. On en achète pour 1 mois.

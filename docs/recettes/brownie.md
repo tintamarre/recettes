@@ -33,7 +33,7 @@ JSON:
     "unity": "gr de",
     },
     {
-    "name": "surcre vanillé",
+    "name": "sucre vanillé",
     "description": '',
     "qty": 1,
     "unity": "sachet(s) de",
@@ -70,10 +70,10 @@ JSON:
 1. Préchauffer le four à 180 degrés ;
 2. Faire un bain marie avec le beurre et le chocolat noir ;
 3. Beurrer le moule ;
-4. Ajouter le sucre, le sucre vanillé, la farine et les oeufs en omelettes au mix beurre + chocolat ;
+4. Ajouter le sucre, le sucre vanillé, la farine et les oeufs en omelette au mix beurre + chocolat ;
 5. Verser la préparation dans le moule et enfourner 15 min, puis laisser 5 minutes dans le four éteint ;
 6. Laisser refroidir 30 min, puis mettre au frigo pendant au moins 2h ;
-7. Démouler le gateau et puis découpez en parts individuelles ;
+7. Démouler le gâteau et puis découpez en parts individuelles ;
 
 ## Optionnel
 

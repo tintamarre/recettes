@@ -69,7 +69,7 @@ JSON:
 
 ## Mise en oeuvre
 
-- Écraser les speculoos à l'aide d'une rouleau à
+- Écraser les speculoos à l'aide d'un rouleau à
 pâtisserie ou mixer ceux-ci pour en faire de la poudre. Ajouter le beurre fondu tiède et mélanger le tout. Graisser un cercle à gâteau de +/- 22cm et déposer au fond de celui-ci une feuille de papier cuisson sur un plateau. Verser tout le mélange en tassant au fond du moule et placer au frigo.
-- Faire fondre le chocolat blanc. Dans le bol du . robot, battre le philadelphia, la crème fraiche bien froide et la mascarpone. Ajouter le chocolat blanc fondu (pas trop chaud) jusqu'à obtention d'un mélange bien lisse. Verser ce mélange sur le fond de biscuits et mettre au frigo pour environ 2 heures.
+- Faire fondre le chocolat blanc. Dans le bol du robot, battre le philadelphia, la crème fraiche bien froide et la mascarpone. Ajouter le chocolat blanc fondu (pas trop chaud) jusqu'à obtention d'un mélange bien lisse. Verser ce mélange sur le fond de biscuits et mettre au frigo pour environ 2 heures.
 - Faire fondre la pâte à spéculoos puis la verser sur le cheesecake. Remettre au frigo encore pour 2 heures ou toute une nuit ..
