@@ -70,7 +70,7 @@ JSON:
 
 1. Tamiser la farine et le sucre ;
 2. Ajouter les 4 épices, la cannelle et le bicarbonate de soude ;
-3. Battre les 2 œufs et les ajouter au mélange ;
+3. Battre les œufs et les ajouter au mélange ;
 4. Ramollir le beurre et l'introduire progressivement jusqu'à obtenir une pâte bien lisse ;
 5. Faire des boules (taille de balles de ping-pong) et mettre au frigo une nuit ;
 6. Le lendemain, rouler chaque pièce pour en faire des boudins (baguettes). Déposer sur la plaque de four en les espaçant de quelques cm avec un papier cuisson ;
